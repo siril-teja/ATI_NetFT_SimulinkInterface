@@ -1,4 +1,4 @@
-# ATI_NetFT_SimuinkInterface
+# Matlab Simulink Interface for ATI NetF/T Sensors
 This library provides an interface to sample data from ATI Net-FT sensors directly within Simulink. It allows seamless integration for real-time data collection and simulation, enabling users to utilize ATI's force/torque sensors in their Simulink models for testing.
 
 Tested in Matlab R2023a.
