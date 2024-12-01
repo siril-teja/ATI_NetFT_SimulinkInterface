@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab Simulink Interface for ATI NetF/T Sensors
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Siril Teja
+    family-names: Dukkipati
+    email: siril.dukkipati@mail.mcgill.ca
+    affiliation: McGill University
+    orcid: 'https://orcid.org/0000-0001-6047-4513'
+license: MIT
