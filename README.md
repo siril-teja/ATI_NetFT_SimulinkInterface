@@ -26,3 +26,14 @@ https://github.com/LuSeKa/ATI_NetFT_MatlabInterface
 
 Min-Geun Park
 https://github.com/geunee20/ATI_NetFT_MatlabInterface/tree/2021b
+
+
+## Cite as
+@software{Dukkipati_2024,
+author = {Dukkipati, Siril Teja},
+license = {MIT},
+month = nov,
+title = {{Matlab Simulink Interface for ATI NetF/T Sensors}},
+url = {https://github.com/siril-teja/ATI_NetFT_SimulinkInterface.git},
+year = {2024}
+}
