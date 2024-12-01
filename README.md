@@ -1,6 +1,6 @@
 # ATI_NetFT_SimuinkInterface
-Library to sample the the ATI Net-FT sensors from within Simulink
-Tested in Matlab R2023a
+* Library to sample the the ATI Net-FT sensors from within Simulink.
+* Tested in Matlab R2023a.
 
 # Setup
 * TCP/IPv4 settings on your machine: static IP 192.168.1.100, submask 255:255:255:0
