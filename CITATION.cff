@@ -13,4 +13,7 @@ authors:
     email: siril.dukkipati@mail.mcgill.ca
     affiliation: McGill University
     orcid: 'https://orcid.org/0000-0001-6047-4513'
+repository-code: >-
+  https://github.com/siril-teja/ATI_NetFT_SimulinkInterface.git
 license: MIT
+date-released: '2024-11-29'
